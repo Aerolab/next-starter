@@ -34,7 +34,7 @@
     "@next/eslint-plugin-next": "^15.2.3",
     "@storybook/addon-essentials": "^8.6.7",
     "@storybook/addon-interactions": "^8.6.7",
-    "@storybook/addon-links": "^8.6.7",
+    "@storybook/addon-links": "^8.6.10",
     "@storybook/addon-onboarding": "^8.6.7",
     "@storybook/addon-themes": "^8.6.7",
     "@storybook/blocks": "^8.6.7",
